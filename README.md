@@ -14,7 +14,8 @@ This is a basic code to calculate integral value it stands upon the reimann form
  ## how to run
 . **compile and run**
 
-    ```bash
-    g++ main.cpp -o main
-    ./main
-    ```
+
+```bash
+g++ main.cpp -o main
+./main
+```
